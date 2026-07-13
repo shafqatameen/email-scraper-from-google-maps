@@ -1,0 +1,530 @@
+[
+  {
+    "id": "2026-07-13T16:23:09.813Z",
+    "query": "https://www.google.com/maps/search/chennai+colleges/@13.047369,80.0438587,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+    "date": "2026-07-13T16:23:09.813Z",
+    "totalResults": 20,
+    "data": [
+      {
+        "id": "1783959568671-0",
+        "name": "Unknown",
+        "address": "Sardar Patel Rd, Anna University, Kotturpuram, Chennai, Greater Chennai, Tamil Nadu 600025",
+        "phone": "",
+        "rating": "",
+        "reviews": "2,857 reviews",
+        "website": "https://www.annauniv.edu/index.php",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959581945-1",
+        "name": "Unknown",
+        "address": "Navalar Nagar, Chepauk, Triplicane, Chennai, Greater Chennai, Tamil Nadu 600005",
+        "phone": "",
+        "rating": "",
+        "reviews": "1,338 reviews",
+        "website": "http://www.unom.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959586524-2",
+        "name": "Unknown",
+        "address": "Ethiraj Road Saint Gobain Vetrotex India Limited Thousand Lights, 70, Ethiraj Salai, Egmore, Chennai, Tamil Nadu 600008",
+        "phone": "044 2827 9189",
+        "rating": "",
+        "reviews": "547 reviews",
+        "website": "http://www.ethirajcollege.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959590402-3",
+        "name": "Unknown",
+        "address": "PB 3301, Sterling Rd, Nungambakkam, Chennai, Greater Chennai, Tamil Nadu 600034",
+        "phone": "044 2817 8200",
+        "rating": "",
+        "reviews": "4,581 reviews",
+        "website": "http://loyolacollege.edu/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959597273-4",
+        "name": "Unknown",
+        "address": "51, College Rd, opp. Standard Chartered Bank, Subba Road Avenue, Nungambakkam, Chennai, Greater Chennai, Tamil Nadu 600006",
+        "phone": "044 2827 5926",
+        "rating": "",
+        "reviews": "814 reviews",
+        "website": "http://wcc.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959612695-5",
+        "name": "Unknown",
+        "address": "East Tambaram, Tambaram, Chennai, Tambaram, Tamil Nadu 600059",
+        "phone": "",
+        "rating": "",
+        "reviews": "2,005 reviews",
+        "website": "http://mcc.edu.in/",
+        "category": "Christian college",
+        "emails": [
+          "admission@mcc.edu.in",
+          "principal@mcc.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959617142-6",
+        "name": "Unknown",
+        "address": "50/76, Cathedral Rd, Poes Garden, Gopalapuram, Chennai, Greater Chennai, Tamil Nadu 600086",
+        "phone": "044 2811 1987",
+        "rating": "",
+        "reviews": "1,305 reviews",
+        "website": "http://stellamariscollege.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959621072-7",
+        "name": "Unknown",
+        "address": "Indian Institute Of Technology, Chennai, Greater Chennai, Tamil Nadu 600036",
+        "phone": "044 2257 8000",
+        "rating": "",
+        "reviews": "2,620 reviews",
+        "website": "http://www.iitm.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959626554-8",
+        "name": "Unknown",
+        "address": "Jeppiaar Nagar, SH 49A, Kamaraj Nagar, Semmancheri, Chennai, Tamil Nadu 600119",
+        "phone": "",
+        "rating": "",
+        "reviews": "3,541 reviews",
+        "website": "http://www.sathyabama.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959643094-9",
+        "name": "Unknown",
+        "address": "R2FV+6Q7, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+        "phone": "044 2741 7000",
+        "rating": "",
+        "reviews": "8,284 reviews",
+        "website": "https://www.srmist.edu.in/",
+        "category": "University",
+        "emails": [
+          "infodesk@srmist.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959646626-10",
+        "name": "Unknown",
+        "address": "near, Station, Poonamallee High Rd, Park Town, Chennai, Tamil Nadu 600003",
+        "phone": "044 2530 5000",
+        "rating": "",
+        "reviews": "554 reviews",
+        "website": "https://www.mmcrgggh.tn.gov.in/",
+        "category": "Medical school",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959722032-11",
+        "name": "Unknown",
+        "address": "Presidency College, 100, Kamarajar Salai, PWD Estate, Chepauk, Triplicane, Chennai, Greater Chennai, Tamil Nadu 600005",
+        "phone": "044 2854 4894",
+        "rating": "",
+        "reviews": "1,202 reviews",
+        "website": "https://www.pcc.ac.in/",
+        "category": "Government college",
+        "emails": [
+          "contactus@pcc.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959725542-12",
+        "name": "Unknown",
+        "address": "SH 49A, Kalavakkam, Thaiyur, Tamil Nadu 603110",
+        "phone": "044 2746 9700",
+        "rating": "",
+        "reviews": "1,774 reviews",
+        "website": "http://www.ssn.edu.in/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959730926-13",
+        "name": "Unknown",
+        "address": "MIT Campus, Chromepet, Chennai, Tambaram, Tamil Nadu 600044",
+        "phone": "",
+        "rating": "",
+        "reviews": "1,346 reviews",
+        "website": "http://www.mitindia.edu/",
+        "category": "Institute of technology",
+        "emails": [
+          "dean@mitindia.edu"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959736301-14",
+        "name": "Unknown",
+        "address": "PV Vaithiyalingam Rd, Velan Nagar, Krishnapuram, Pallavaram, Chennai, Tambaram, Tamil Nadu 600117",
+        "phone": "044 2266 2501",
+        "rating": "",
+        "reviews": "2,467 reviews",
+        "website": "http://www.velsuniv.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959741393-15",
+        "name": "Unknown",
+        "address": "32, CASA Major Rd, Sulaiman Zackria Avenue, Egmore, Chennai, Greater Chennai, Tamil Nadu 600008",
+        "phone": "044 2819 2824",
+        "rating": "",
+        "reviews": "223 reviews",
+        "website": "http://www.mssw.in/",
+        "category": "College",
+        "emails": [
+          "principal@mssw.in",
+          "placements@mssw.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959748515-16",
+        "name": "Unknown",
+        "address": "20, IV Lane, Nungambakkam High Rd, Chennai, Tamil Nadu 600034",
+        "phone": "044 2833 0262",
+        "rating": "",
+        "reviews": "663 reviews",
+        "website": "https://mopvc.edu.in/",
+        "category": "College",
+        "emails": [
+          "mopvaishnav@mopvc.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959755683-17",
+        "name": "Unknown",
+        "address": "Guru Nanak Salai, Anna Garden, Velachery, Chennai, Greater Chennai, Tamil Nadu 600042",
+        "phone": "044 2245 1746",
+        "rating": "",
+        "reviews": "1,712 reviews",
+        "website": "http://gurunanakcollege.edu.in/",
+        "category": "College",
+        "emails": [
+          "principal@gurunanakcollege.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959760702-18",
+        "name": "Unknown",
+        "address": "NO.833, E.V.R. Periyar High Road, SBI Officers Colony, Arumbakkam, Chennai, Greater Chennai, Tamil Nadu 600106",
+        "phone": "044 2363 5101",
+        "rating": "",
+        "reviews": "1,886 reviews",
+        "website": "http://www.dgvaishnavcollege.edu.in/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959785071-19",
+        "name": "Unknown",
+        "address": "162, Bharathi Salai, Ramapuram, Chennai, Greater Chennai, Tamil Nadu 600089",
+        "phone": "044 4392 3041",
+        "rating": "",
+        "reviews": "2,716 reviews",
+        "website": "http://srmeaswari.ac.in/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13T16:18:06.092Z",
+    "query": "https://www.google.com/maps/search/chennai+colleges/@13.047369,80.0438587,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+    "date": "2026-07-13T16:18:06.092Z",
+    "totalResults": 20,
+    "data": [
+      {
+        "id": "1783959282727-0",
+        "name": "Unknown",
+        "address": "Sardar Patel Rd, Anna University, Kotturpuram, Chennai, Greater Chennai, Tamil Nadu 600025",
+        "phone": "",
+        "rating": "",
+        "reviews": "2,857 reviews",
+        "website": "https://www.annauniv.edu/index.php",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959292720-1",
+        "name": "Unknown",
+        "address": "Navalar Nagar, Chepauk, Triplicane, Chennai, Greater Chennai, Tamil Nadu 600005",
+        "phone": "",
+        "rating": "",
+        "reviews": "1,338 reviews",
+        "website": "http://www.unom.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959297198-2",
+        "name": "Unknown",
+        "address": "Ethiraj Road Saint Gobain Vetrotex India Limited Thousand Lights, 70, Ethiraj Salai, Egmore, Chennai, Tamil Nadu 600008",
+        "phone": "044 2827 9189",
+        "rating": "",
+        "reviews": "547 reviews",
+        "website": "http://www.ethirajcollege.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959301333-3",
+        "name": "Unknown",
+        "address": "PB 3301, Sterling Rd, Nungambakkam, Chennai, Greater Chennai, Tamil Nadu 600034",
+        "phone": "044 2817 8200",
+        "rating": "",
+        "reviews": "4,581 reviews",
+        "website": "http://loyolacollege.edu/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959308002-4",
+        "name": "Unknown",
+        "address": "Indian Institute Of Technology, Chennai, Greater Chennai, Tamil Nadu 600036",
+        "phone": "044 2257 8000",
+        "rating": "",
+        "reviews": "2,620 reviews",
+        "website": "http://www.iitm.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959327337-5",
+        "name": "Unknown",
+        "address": "51, College Rd, opp. Standard Chartered Bank, Subba Road Avenue, Nungambakkam, Chennai, Greater Chennai, Tamil Nadu 600006",
+        "phone": "044 2827 5926",
+        "rating": "",
+        "reviews": "814 reviews",
+        "website": "http://wcc.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959332354-6",
+        "name": "Unknown",
+        "address": "Jeppiaar Nagar, SH 49A, Kamaraj Nagar, Semmancheri, Chennai, Tamil Nadu 600119",
+        "phone": "",
+        "rating": "",
+        "reviews": "3,541 reviews",
+        "website": "http://www.sathyabama.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959350703-7",
+        "name": "Unknown",
+        "address": "R2FV+6Q7, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+        "phone": "044 2741 7000",
+        "rating": "",
+        "reviews": "8,284 reviews",
+        "website": "https://www.srmist.edu.in/",
+        "category": "University",
+        "emails": [
+          "infodesk@srmist.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959354244-8",
+        "name": "Unknown",
+        "address": "East Tambaram, Tambaram, Chennai, Tambaram, Tamil Nadu 600059",
+        "phone": "",
+        "rating": "",
+        "reviews": "2,005 reviews",
+        "website": "http://mcc.edu.in/",
+        "category": "Christian college",
+        "emails": [
+          "admission@mcc.edu.in",
+          "principal@mcc.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959359039-9",
+        "name": "Unknown",
+        "address": "50/76, Cathedral Rd, Poes Garden, Gopalapuram, Chennai, Greater Chennai, Tamil Nadu 600086",
+        "phone": "044 2811 1987",
+        "rating": "",
+        "reviews": "1,305 reviews",
+        "website": "http://stellamariscollege.edu.in/",
+        "category": "Women's College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959362899-10",
+        "name": "Unknown",
+        "address": "MIT Campus, Chromepet, Chennai, Tambaram, Tamil Nadu 600044",
+        "phone": "",
+        "rating": "",
+        "reviews": "1,346 reviews",
+        "website": "http://www.mitindia.edu/",
+        "category": "Institute of technology",
+        "emails": [
+          "dean@mitindia.edu"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959368634-11",
+        "name": "Unknown",
+        "address": "near, Station, Poonamallee High Rd, Park Town, Chennai, Tamil Nadu 600003",
+        "phone": "044 2530 5000",
+        "rating": "",
+        "reviews": "554 reviews",
+        "website": "https://www.mmcrgggh.tn.gov.in/",
+        "category": "Medical school",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959443666-12",
+        "name": "Unknown",
+        "address": "Presidency College, 100, Kamarajar Salai, PWD Estate, Chepauk, Triplicane, Chennai, Greater Chennai, Tamil Nadu 600005",
+        "phone": "044 2854 4894",
+        "rating": "",
+        "reviews": "1,202 reviews",
+        "website": "https://www.pcc.ac.in/",
+        "category": "Government college",
+        "emails": [
+          "contactus@pcc.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959447332-13",
+        "name": "Unknown",
+        "address": "PV Vaithiyalingam Rd, Velan Nagar, Krishnapuram, Pallavaram, Chennai, Tambaram, Tamil Nadu 600117",
+        "phone": "044 2266 2501",
+        "rating": "",
+        "reviews": "2,467 reviews",
+        "website": "http://www.velsuniv.ac.in/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959452447-14",
+        "name": "Unknown",
+        "address": "SH 49A, Kalavakkam, Thaiyur, Tamil Nadu 603110",
+        "phone": "044 2746 9700",
+        "rating": "",
+        "reviews": "1,774 reviews",
+        "website": "http://www.ssn.edu.in/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959458146-15",
+        "name": "Unknown",
+        "address": "162, Bharathi Salai, Ramapuram, Chennai, Greater Chennai, Tamil Nadu 600089",
+        "phone": "044 4392 3041",
+        "rating": "",
+        "reviews": "2,709 reviews",
+        "website": "http://srmeaswari.ac.in/",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959463559-16",
+        "name": "Unknown",
+        "address": "32, CASA Major Rd, Sulaiman Zackria Avenue, Egmore, Chennai, Greater Chennai, Tamil Nadu 600008",
+        "phone": "044 2819 2824",
+        "rating": "",
+        "reviews": "223 reviews",
+        "website": "http://www.mssw.in/",
+        "category": "College",
+        "emails": [
+          "principal@mssw.in",
+          "placements@mssw.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959470482-17",
+        "name": "Unknown",
+        "address": "20, IV Lane, Nungambakkam High Rd, Chennai, Tamil Nadu 600034",
+        "phone": "044 2833 0262",
+        "rating": "",
+        "reviews": "663 reviews",
+        "website": "https://mopvc.edu.in/",
+        "category": "College",
+        "emails": [
+          "mopvaishnav@mopvc.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959477703-18",
+        "name": "Unknown",
+        "address": "Guru Nanak Salai, Anna Garden, Velachery, Chennai, Greater Chennai, Tamil Nadu 600042",
+        "phone": "044 2245 1746",
+        "rating": "",
+        "reviews": "1,712 reviews",
+        "website": "http://gurunanakcollege.edu.in/",
+        "category": "College",
+        "emails": [
+          "principal@gurunanakcollege.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783959483533-19",
+        "name": "Unknown",
+        "address": "Poonamallee High Rd, Vishwas Nagar, Maduravoyal, Chennai, Greater Chennai, Tamil Nadu 600095",
+        "phone": "044 2378 2176",
+        "rating": "",
+        "reviews": "2,081 reviews",
+        "website": "",
+        "category": "Education center",
+        "emails": [],
+        "status": "scraped"
+      }
+    ]
+  }
+]

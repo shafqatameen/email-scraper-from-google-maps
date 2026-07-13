@@ -141,8 +141,8 @@ export default function HistoryPage() {
                       }}
                     >
                       <div>
-                        <div style={{ fontWeight: 600, marginBottom: "4px" }}>{session.query}</div>
-                        <div style={{ fontSize: "0.85rem", color: "#666" }}>
+                        <div style={{ fontWeight: 600, marginBottom: "4px", color: "#111827" }}>{session.query}</div>
+                        <div style={{ fontSize: "0.85rem", color: "#4b5563" }}>
                           {new Date(session.date).toLocaleString()} • {session.totalResults} results
                         </div>
                       </div>
