@@ -107,9 +107,16 @@ export default function Home() {
   }, []);
 
   const handleStop = useCallback(() => {
-    abortRef.current?.abort();
-    setStatus("done");
-    setStatusMessage("");
+    try {
+      if (abortRef.current) {
+        abortRef.current.abort();
+      }
+    } catch (e) {
+      console.error("Error aborting fetch:", e);
+    } finally {
+      setStatus("done");
+      setStatusMessage("");
+    }
   }, []);
 
   return (

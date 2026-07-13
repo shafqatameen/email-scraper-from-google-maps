@@ -36,6 +36,10 @@ export async function POST(req: NextRequest) {
         let count = 0;
         const results = [];
         for await (const business of scrapeGoogleMaps(input, limit)) {
+          if (req.signal.aborted) {
+            console.log("Client disconnected, stopping scraper...");
+            break;
+          }
           // Enrich with emails from website
           if (business.website) {
             send({

@@ -1,5 +1,286 @@
 [
   {
+    "id": "2026-07-13T16:39:25.068Z",
+    "query": "colleges in Coimbatore",
+    "date": "2026-07-13T16:39:25.069Z",
+    "totalResults": 20,
+    "data": [
+      {
+        "id": "1783960591822-0",
+        "name": "Unknown",
+        "address": "",
+        "phone": "",
+        "rating": "",
+        "reviews": "",
+        "website": "",
+        "category": "",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960596823-1",
+        "name": "Unknown",
+        "address": "Avinashi Rd, PSG CAS, Civil Aerodrome Post, Coimbatore, Tamil Nadu 641014",
+        "phone": "0422 430 3300",
+        "rating": "",
+        "reviews": "2,415 reviews",
+        "website": "https://www.psgcas.ac.in/",
+        "category": "College",
+        "emails": [
+          "principal@psgcas.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960600586-2",
+        "name": "Unknown",
+        "address": "Athipalayam Rd, Chinnavedampatti, Coimbatore, Tamil Nadu 641035",
+        "phone": "0422 266 1100",
+        "rating": "",
+        "reviews": "2,033 reviews",
+        "website": "http://www.kct.ac.in/",
+        "category": "College",
+        "emails": [
+          "info@kct.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960605681-3",
+        "name": "Unknown",
+        "address": "Fun Mall & Lakshmi Mills, Bus Stop, Avinashi Road, Between, Nava India Rd, Peelamedu, Tamil Nadu 641006",
+        "phone": "0422 256 2788",
+        "rating": "",
+        "reviews": "2,172 reviews",
+        "website": "http://www.srcas.ac.in/",
+        "category": "College",
+        "emails": [
+          "office@srcas.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960609599-4",
+        "name": "Unknown",
+        "address": "BK Pudur, Kuniyamuthur, Tamil Nadu 641008",
+        "phone": "0422 267 8001",
+        "rating": "",
+        "reviews": "1,931 reviews",
+        "website": "http://www.skcet.ac.in/",
+        "category": "College",
+        "emails": [
+          "principal@skcet.ac.in",
+          "placement@skcet.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960615239-5",
+        "name": "Unknown",
+        "address": "Thadagam Main Rd, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu 641013",
+        "phone": "0422 243 2221",
+        "rating": "",
+        "reviews": "1,273 reviews",
+        "website": "https://gct.ac.in/",
+        "category": "Government college",
+        "emails": [
+          "principal@gct.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960621156-6",
+        "name": "Unknown",
+        "address": "SNS Kalvi Nagar, Sathy Main Road, NH-209, Vazhiyampalayam, Saravanampatti, Coimbatore, Tamil Nadu 641048",
+        "phone": "075503 16701",
+        "rating": "",
+        "reviews": "4,545 reviews",
+        "website": "https://snsct.org/?utm_source=google&utm_medium=GMB&utm_campaign=EngineeringCollege&utm_id=snsct&utm_term=Engineering+Colleges+in+Coimbatore&utm_content=Top+Engineering+Colleges+in+Coimbatore",
+        "category": "College",
+        "emails": [
+          "snsct@snsgroups.com",
+          "job@snsgroups.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960626378-7",
+        "name": "Unknown",
+        "address": "Chinnavedampatty, Athipalayam Rd, Sreevatsa Global Village, Saravanampatti, Coimbatore, Tamil Nadu 641049",
+        "phone": "073589 73922",
+        "rating": "",
+        "reviews": "562 reviews",
+        "website": "http://www.cmscbe.com/",
+        "category": "College",
+        "emails": [
+          "info@cmscollege.edu.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960635367-8",
+        "name": "Unknown",
+        "address": "Avinashi Rd, behind Nava India, Udayampalayam, Coimbatore, Tamil Nadu 641028",
+        "phone": "0422 444 0555",
+        "rating": "",
+        "reviews": "3,578 reviews",
+        "website": "",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960638184-9",
+        "name": "Unknown",
+        "address": "Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004",
+        "phone": "0422 257 2177",
+        "rating": "",
+        "reviews": "3,681 reviews",
+        "website": "http://www.psgtech.edu/",
+        "category": "Institute of technology",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960643978-10",
+        "name": "Unknown",
+        "address": "326M+CCF, Kalapatti Main Rd, Sharp Nagar, Nehru Nagar West, Coimbatore, Tamil Nadu 641048",
+        "phone": "0422 236 9253",
+        "rating": "",
+        "reviews": "1,649 reviews",
+        "website": "http://www.drngpasc.ac.in/",
+        "category": "College",
+        "emails": [
+          "drngparts@kmch.ac.in",
+          "info@kmch.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960648765-11",
+        "name": "Unknown",
+        "address": "Nehru Gardens, Nehru College Road, T.M Palayam, Coimbatore, Tamil Nadu 641105",
+        "phone": "0422 220 6148",
+        "rating": "",
+        "reviews": "1,319 reviews",
+        "website": "http://www.nehrucolleges.org/",
+        "category": "College",
+        "emails": [
+          "admissions@nehrucolleges.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960652905-12",
+        "name": "Unknown",
+        "address": "NH-209, Coimbatore-Pollachi main road, Ealur Pirivu, Solavampalayam (po, Tamil Nadu 642109",
+        "phone": "082200 48212",
+        "rating": "",
+        "reviews": "2,469 reviews",
+        "website": "https://vsbcetc.edu.in/",
+        "category": "College",
+        "emails": [
+          "admission@vsbcetc.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960656954-13",
+        "name": "Unknown",
+        "address": "Karunya Nagar, Coimbatore, Madawarayapuram, Tamil Nadu 641114",
+        "phone": "0422 261 4440",
+        "rating": "",
+        "reviews": "1,360 reviews",
+        "website": "https://www.karunya.edu/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960671128-14",
+        "name": "Unknown",
+        "address": "Pollachi Main Rd, Kpm Nagar, Eachanari, Coimbatore, Tamil Nadu 641021",
+        "phone": "084484 48909",
+        "rating": "",
+        "reviews": "1,337 reviews",
+        "website": "https://rathinamcollege.ac.in/",
+        "category": "College",
+        "emails": [
+          "info@rathinam.in",
+          "principal@rathinam.in",
+          "corporaterelations@rathinam.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960674885-15",
+        "name": "Unknown",
+        "address": "First floor, 52C, Nanjappan Street, Maruthapuram Bharathiary University, Bharathiyar University, Coimbatore, Tamil Nadu 641046",
+        "phone": "0422 242 2222",
+        "rating": "",
+        "reviews": "1,775 reviews",
+        "website": "http://www.b-u.ac.in/Home/",
+        "category": "University",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960749848-16",
+        "name": "Unknown",
+        "address": "395, Sarojini Naidu Rd, Siddhapudur, Balasundaram Layout, New Siddhapudur, Coimbatore, Tamil Nadu 641044",
+        "phone": "0422 224 3624",
+        "rating": "",
+        "reviews": "1,388 reviews",
+        "website": "http://www.srcw.ac.in/",
+        "category": "Women's College",
+        "emails": [
+          "enquiry@srcw.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960753528-17",
+        "name": "Unknown",
+        "address": "Lawley Rd, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu 641003",
+        "phone": "0422 661 1200",
+        "rating": "",
+        "reviews": "1,761 reviews",
+        "website": "http://www.tnau.ac.in/",
+        "category": "University",
+        "emails": [
+          "info@tnau.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960758806-18",
+        "name": "Unknown",
+        "address": "PSGR, Krishnammal College Women, 1479, Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004",
+        "phone": "0422 429 5959",
+        "rating": "",
+        "reviews": "1,013 reviews",
+        "website": "https://www.psgrkcw.ac.in/",
+        "category": "Women's College",
+        "emails": [
+          "principal@psgrkcw.ac.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783960762557-19",
+        "name": "Unknown",
+        "address": "3W5X+VFH, Udayampalayam Rd, Coimbatore, Tamil Nadu 641029",
+        "phone": "0422 264 2095",
+        "rating": "",
+        "reviews": "2,293 reviews",
+        "website": "",
+        "category": "Educational institution",
+        "emails": [],
+        "status": "scraped"
+      }
+    ]
+  },
+  {
     "id": "2026-07-13T16:23:09.813Z",
     "query": "https://www.google.com/maps/search/chennai+colleges/@13.047369,80.0438587,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
     "date": "2026-07-13T16:23:09.813Z",
