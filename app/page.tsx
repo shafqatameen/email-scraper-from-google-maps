@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useCallback } from "react";
+import Link from "next/link";
 import SearchForm from "@/components/SearchForm";
 import ResultsTable from "@/components/ResultsTable";
 import ExportButton from "@/components/ExportButton";
@@ -124,7 +125,10 @@ export default function Home() {
                 <p>Extract business contacts from Google Maps</p>
               </div>
             </div>
-            <div className="header-badge">Powered by Playwright</div>
+            <div style={{ display: "flex", gap: "1rem", alignItems: "center" }}>
+              <Link href="/history" className="btn-secondary" style={{ textDecoration: "none" }}>View History</Link>
+              <div className="header-badge">Powered by Playwright</div>
+            </div>
           </div>
         </div>
       </header>

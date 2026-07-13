@@ -2,6 +2,7 @@ import { NextRequest } from "next/server";
 import { scrapeGoogleMaps } from "@/lib/mapsScraper";
 import { extractEmails } from "@/lib/emailExtractor";
 import { isGoogleMapsUrl } from "@/lib/utils";
+import { saveHistorySession } from "@/lib/history";
 
 export const runtime = "nodejs";
 export const maxDuration = 300;
@@ -33,6 +34,7 @@ export async function POST(req: NextRequest) {
         send({ type: "start", message: "Scraping Google Maps..." });
 
         let count = 0;
+        const results = [];
         for await (const business of scrapeGoogleMaps(input, limit)) {
           // Enrich with emails from website
           if (business.website) {
@@ -44,9 +46,18 @@ export async function POST(req: NextRequest) {
             business.emails = await extractEmails(business.website);
           }
 
+          results.push(business);
           send({ type: "result", data: business });
           count++;
         }
+
+        await saveHistorySession({
+          id: new Date().toISOString(),
+          query: input,
+          date: new Date().toISOString(),
+          totalResults: count,
+          data: results
+        });
 
         send({ type: "done", total: count });
       } catch (err: unknown) {
