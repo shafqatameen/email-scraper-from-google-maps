@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Email Scraper from Google Maps
 
-## Getting Started
+A full-stack Next.js application that automates the process of extracting business information from Google Maps and scraping their websites for contact email addresses.
 
-First, run the development server:
+## ✨ Features
 
+- **Google Maps Data Extraction**: Uses `Playwright` to search for queries (e.g., "colleges in Coimbatore") and extracts Business Name, Address, Phone Number(s), Reviews, and Website URL.
+- **Deep Email Scraping**: Uses `Cheerio` to crawl the extracted business websites. It looks for emails on the homepage and automatically checks common sub-pages (like `/contact`, `/about-us`) if none are found.
+- **Real-Time UI**: Uses Server-Sent Events (SSE) to stream live scraping progress and results directly to the web dashboard.
+- **Data Export**: Export scraped leads to CSV or Excel instantly.
+- **Clean Data**: Automatically strips out hidden Unicode characters and icons from Google Maps listings, and collects all available phone numbers for a business.
+- **Persistent Backend (In-Progress)**: Configured with Docker, PostgreSQL, Prisma, and Redis/BullMQ to handle massive, long-running scrape jobs reliably in the background.
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+- [Node.js](https://nodejs.org/en/) (v18+)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) (for PostgreSQL and Redis)
+
+### 2. Installation
+
+Clone the repository and install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 3. Setup Database & Infrastructure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Start the local PostgreSQL and Redis containers using Docker:
+```bash
+docker-compose up -d
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Initialize the database schema using Prisma:
+```bash
+npx prisma migrate dev --name init
+```
 
-## Learn More
+### 4. Run the Application
 
-To learn more about Next.js, take a look at the following resources:
+Start the Next.js development server:
+```bash
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open [http://localhost:3000](http://localhost:3000) with your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Frontend:** Next.js (App Router), React, Tailwind CSS
+- **Scraping Engine:** Playwright (Headless Chromium), Cheerio
+- **Database (New Architecture):** PostgreSQL, Prisma ORM
+- **Task Queue (New Architecture):** Redis, BullMQ
