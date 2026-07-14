@@ -1,5 +1,269 @@
 [
   {
+    "id": "2026-07-14T08:00:30.980Z",
+    "query": "salons in Chennai",
+    "date": "2026-07-14T08:00:30.980Z",
+    "totalResults": 20,
+    "data": [
+      {
+        "id": "1784015942427-0",
+        "name": "PLSH Unisex Salon - Best Salon in Chennai | Hair Colouring | Bridal Makeup | Keratin | Permanent Human Hair Extensions",
+        "address": "85/94 Park View, Door 18, G.N.Chetty Road , T.Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "096291 45743",
+        "rating": "",
+        "reviews": "1,111 reviews",
+        "website": "https://plshair.com/",
+        "category": "Hairdresser",
+        "emails": [
+          "plshsalonofficial@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015946434-1",
+        "name": "VIBE UNISEX SALON",
+        "address": "28, Dhandapani St, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "093427 95928",
+        "rating": "",
+        "reviews": "2,038 reviews",
+        "website": "",
+        "category": "Hairdresser",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015949516-2",
+        "name": "Green Trends Unisex Salon, T Nagar, Chennai",
+        "address": "18A, Raghavaiah Rd, near Challani Jewellery Mart, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "07397 796 513",
+        "rating": "",
+        "reviews": "4,085 reviews",
+        "website": "https://salons.mygreentrends.in/green-trends/salon-in-chennai/salon-in-t-nagar/green-trends-salon-in-t-nagar-chennai--32b16b1c-f672-4133-8a3e-22365008e573/home",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015956670-3",
+        "name": "SCISSORS ELITE( T nagar ) - Men's Grooming | Bride Facial | Affordable men's salon | Hair cut | Chennai best salon",
+        "address": "Gopalakrishna St, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "098844 12900",
+        "rating": "",
+        "reviews": "231 reviews",
+        "website": "https://scissorselite.com/",
+        "category": "Beauty Parlour",
+        "emails": [
+          "admin@ownmail.com",
+          "scissorselite@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015962483-4",
+        "name": "Vurve Salon | T.Nagar",
+        "address": "Ground Floor, New No 14, Old No 20, ABHIRAMI, Dr Nair Rd, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "073055 85552",
+        "rating": "",
+        "reviews": "2,718 reviews",
+        "website": "https://www.vurvesalon.com/",
+        "category": "Beauty Parlour",
+        "emails": [
+          "care@vurvesalon.com",
+          "marketing@vurvesalon.com",
+          "hr@vurvesalon.com",
+          "contact@vurvesalon.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015969503-5",
+        "name": "Face3 unisex salon &academy",
+        "address": "28, 118 17, Gopathy Narayana Rd, raod, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "087786 13876",
+        "rating": "",
+        "reviews": "24 reviews",
+        "website": "http://www.face3salon.com/",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015972771-6",
+        "name": "Visual Grammar Salon & Experiences / Teynampet",
+        "address": "16, ground floor, Cenotaph Rd, Rathna Nagar, Teynampet, Chennai, Greater Chennai, Tamil Nadu 600018",
+        "phone": "093840 98154",
+        "rating": "",
+        "reviews": "1,261 reviews",
+        "website": "http://visualgrammar.in/",
+        "category": "Hairdresser",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015977675-7",
+        "name": "Toni&Guy Hairdressing, T Nagar",
+        "address": "#96, 2nd Floor, Gopathy Narayana Rd, near Vani Mahal, T. Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "089259 15917",
+        "rating": "",
+        "reviews": "1,448 reviews",
+        "website": "https://branches.toniandguysalon.in/toniandguy-t-nagar-chennai/tg51/category",
+        "category": "Hair salon",
+        "emails": [
+          "nizam@paulsons.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015982263-8",
+        "name": "Essensuals By Toni&Guy Hairdressing, T Nagar",
+        "address": "No.1, Ground Floor, Somasundaram St, T. Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "044 4218 8666",
+        "rating": "",
+        "reviews": "227 reviews",
+        "website": "https://www.toniandguy.nl/",
+        "category": "Hair salon",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015989728-9",
+        "name": "Green Trends Unisex Salon, T Nagar, Chennai",
+        "address": "30), 1st Flr, Ganesh Building, No. 63, Venkatanarayana Rd, nr. Dindigul Thalappakatti, Amudham Colony, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "07397 796 504",
+        "rating": "",
+        "reviews": "4,115 reviews",
+        "website": "https://salons.mygreentrends.in/green-trends/salon-in-chennai/salon-in-t-nagar/green-trends-salon-in-t-nagar-chennai--4f207a7d-624a-4fb2-b328-455a877c12f8/home",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015994227-10",
+        "name": "Page 3 Luxury Salon & Makeover Studio",
+        "address": "New Door No 35, Old Door No 17 Bazullah Road, Ramarao St, T. Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "098845 44097",
+        "rating": "",
+        "reviews": "97 reviews",
+        "website": "https://locations.page3salon.com/page-3-luxury-salon-makeover-studio-beauty-salons-t-nagar-chennai-523526/Home?utm_source=locator&utm_medium=googleplaces",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784015998436-11",
+        "name": "The Touch Unisex Salon",
+        "address": "No 1, Bhagirathi Ammal Street, Thirumalai Pillai Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "091500 05550",
+        "rating": "",
+        "reviews": "178 reviews",
+        "website": "http://thetouchsalon7.in/",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016003750-12",
+        "name": "Essensuals by Toni&Guy Hairdressing, T Nagar - Thanikachalam Road.",
+        "address": "No.34/25, 1st Floor, Thanikachalam Rd, opp. Hindi Prachara Sabha Street, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "095661 16185",
+        "rating": "",
+        "reviews": "1,233 reviews",
+        "website": "",
+        "category": "Hairdresser",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016006745-13",
+        "name": "Naturals Signature Salon",
+        "address": "29, Dr Nair Rd, above Federal Bank, Pondy Bazaar, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "099417 30333",
+        "rating": "",
+        "reviews": "3,132 reviews",
+        "website": "https://signature.naturals.in/naturals-signature-salon-beauty-salons-t-nagar-chennai-327910/Contact-Us",
+        "category": "Beauty Parlour",
+        "emails": [
+          "freshclapsmarketing23@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016010554-14",
+        "name": "Zazzle Salon - Nungambakkam Chennai",
+        "address": "First floor, DOOR NO: 27, Wallace Gdn 3rd St, Thousand Lights West, Nungambakkam, Chennai, Greater Chennai, Tamil Nadu 600006",
+        "phone": "096100 56789",
+        "rating": "",
+        "reviews": "4,250 reviews",
+        "website": "http://www.zazzlesalon.com/",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016014137-15",
+        "name": "The GlamSquad Salon Chennai®",
+        "address": "1st Floor, 282/6, TTK Rd, above NIKE Showroom, Parthasarathypuram, Alwarpet, Chennai, Greater Chennai, Tamil Nadu 600018",
+        "phone": "063795 22874",
+        "rating": "",
+        "reviews": "1,799 reviews",
+        "website": "https://www.glamsquad.in/",
+        "category": "Hairdresser",
+        "emails": [
+          "glamsquadsalon@outlook.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016019158-16",
+        "name": "Cheap and Best Men's Salon, West Mambalam",
+        "address": "No. 28, 4, Brindavan St, Gokulam Colony, Ramakrishnapuram, West Mambalam, Chennai, Greater Chennai, Tamil Nadu 600033",
+        "phone": "096885 32323",
+        "rating": "",
+        "reviews": "480 reviews",
+        "website": "",
+        "category": "Hairdresser",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016022034-17",
+        "name": "Naturals Signature Salon",
+        "address": "27, S Boag Rd, near sivaji illam house, next to SBI, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "072992 50333",
+        "rating": "",
+        "reviews": "2,356 reviews",
+        "website": "https://signature.naturals.in/naturals-signature-salon-beauty-salons-t-nagar-chennai-556947/Home?utm_source=locator&utm_medium=googleplaces",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016026064-18",
+        "name": "Kerala Hair Dressers",
+        "address": "78/6, 84, Panagal Park, Sir Thyagaraya Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "098401 85789",
+        "rating": "",
+        "reviews": "157 reviews",
+        "website": "",
+        "category": "Hair salon",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1784016028865-19",
+        "name": "Naturals Salon",
+        "address": "76, Bazullah Rd, opposite Vivek Signalt Nagar, Parthasarathi Puram, T. Nagar, Chennai, Greater Chennai, Tamil Nadu 600017",
+        "phone": "044 2834 4664",
+        "rating": "",
+        "reviews": "1,572 reviews",
+        "website": "https://salons.naturals.in/naturals-salon-beauty-salons-t-nagar-chennai-294499/Home",
+        "category": "Beauty Parlour",
+        "emails": [],
+        "status": "scraped"
+      }
+    ]
+  },
+  {
     "id": "2026-07-13T19:04:51.249Z",
     "query": "startups in maduria",
     "date": "2026-07-13T19:04:51.249Z",

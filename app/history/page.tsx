@@ -115,8 +115,8 @@ export default function HistoryPage() {
               </Link>
             </div>
           ) : (
-            <div style={{ display: "flex", gap: "2rem", flexDirection: "column" }}>
-              <section className="history-list">
+            <div style={{ display: "flex", gap: "2rem", alignItems: "flex-start", flexWrap: "wrap" }}>
+              <section className="history-list" style={{ flex: "1 1 300px", maxWidth: "400px" }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "1rem" }}>
                   <h2>Past Sessions</h2>
                   <button onClick={clearHistory} className="btn-secondary" style={{ fontSize: "0.8rem", color: "red", borderColor: "red" }}>
@@ -159,7 +159,7 @@ export default function HistoryPage() {
               </section>
 
               {selectedSession && (
-                <section className="results-section">
+                <section className="results-section" style={{ flex: "999 1 600px", minWidth: 0 }}>
                   <div className="results-header" style={{ marginBottom: "1rem", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
                     <h3>Results for "{selectedSession.query}"</h3>
                     <ExportButton data={selectedSession.data} />
