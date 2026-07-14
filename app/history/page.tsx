@@ -137,11 +137,21 @@ export default function HistoryPage() {
                         display: "flex",
                         justifyContent: "space-between",
                         alignItems: "center",
-                        backgroundColor: selectedSession?.id === session.id ? "#eff6ff" : "white"
+                        backgroundColor: selectedSession?.id === session.id ? "#eff6ff" : "white",
+                        minWidth: 0
                       }}
                     >
-                      <div>
-                        <div style={{ fontWeight: 600, marginBottom: "4px", color: "#111827" }}>{session.query}</div>
+                      <div style={{ minWidth: 0, flex: 1, paddingRight: "8px" }}>
+                        <div style={{ 
+                          fontWeight: 600, 
+                          marginBottom: "4px", 
+                          color: "#111827",
+                          whiteSpace: "nowrap",
+                          overflow: "hidden",
+                          textOverflow: "ellipsis" 
+                        }} title={session.query}>
+                          {session.query}
+                        </div>
                         <div style={{ fontSize: "0.85rem", color: "#4b5563" }}>
                           {new Date(session.date).toLocaleString()} • {session.totalResults} results
                         </div>
