@@ -26,7 +26,12 @@ export function isGoogleMapsUrl(url: string): boolean {
 }
 
 export function sanitizeText(text: string): string {
-  return text.replace(/[\r\n\t]+/g, " ").replace(/\s+/g, " ").trim();
+  // Replace newlines and tabs with space, remove PUA Unicode icons (Google Maps uses these), and trim
+  return text
+    .replace(/[\uE000-\uF8FF]/g, "")
+    .replace(/[\r\n\t]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 export function sleep(ms: number): Promise<void> {

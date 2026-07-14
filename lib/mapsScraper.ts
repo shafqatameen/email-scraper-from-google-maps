@@ -60,20 +60,20 @@ async function scrapeBusinessDetail(
     await sleep(1500);
 
     const name = await page
-      .$eval('h1[class*="fontHeadlineLarge"]', (el) =>
+      .$eval('h1', (el) =>
         el.textContent?.trim() || ""
       )
       .catch(() => "");
 
     const address = await page
-      .$eval('[data-item-id="address"] .fontBodyMedium', (el) =>
+      .$eval('[data-item-id="address"]', (el) =>
         el.textContent?.trim() || ""
       )
       .catch(() => "");
 
     const phone = await page
-      .$eval('[data-item-id*="phone"] .fontBodyMedium', (el) =>
-        el.textContent?.trim() || ""
+      .$$eval('[data-item-id*="phone"]', (els) =>
+        els.map((el) => el.textContent?.trim() || "").filter(Boolean).join(", ")
       )
       .catch(() => "");
 

@@ -1,5 +1,1252 @@
 [
   {
+    "id": "2026-07-13T19:04:51.249Z",
+    "query": "startups in maduria",
+    "date": "2026-07-13T19:04:51.249Z",
+    "totalResults": 71,
+    "data": [
+      {
+        "id": "1783968973842-0",
+        "name": "MaduraiStartupSpaces",
+        "address": "Ground Floor, N M R, 3-A, Subburaman Road, Periya, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+        "phone": "070103 28830",
+        "rating": "",
+        "reviews": "18 reviews",
+        "website": "https://maduraistartups.in/",
+        "category": "Coworking space",
+        "emails": [
+          "reach@maduraistartups.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969020065-1",
+        "name": "RadicalStart InfoLab Private Limited",
+        "address": "6th floor, MIG-341, 80 Feet Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "078670 07700",
+        "rating": "",
+        "reviews": "168 reviews",
+        "website": "https://www.radicalstart.com/",
+        "category": "Software company",
+        "emails": [
+          "support@radicalstart.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969024198-2",
+        "name": "StartupTN Madurai Regional Hub",
+        "address": "W4PQ+CH3 Regional Startup Hub, Mellur, Madurai, Tamil Nadu 625002",
+        "phone": "",
+        "rating": "",
+        "reviews": "28 reviews",
+        "website": "https://startuptn.in/",
+        "category": "Government office",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969034169-3",
+        "name": "Madurai Startups Maker Spaces",
+        "address": "3780,Floor, I, TNHB Colony, Madurai, Tamil Nadu 625011",
+        "phone": "",
+        "rating": "",
+        "reviews": "35 reviews",
+        "website": "https://625001.in/",
+        "category": "Coworking space",
+        "emails": [
+          "maduraistartups@625001.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969045755-4",
+        "name": "FasturaTechnologies",
+        "address": "311, 1st East Main Rd, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+        "phone": "090367 82332",
+        "rating": "",
+        "reviews": "4 reviews",
+        "website": "http://fastura.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969050081-5",
+        "name": "Alpharive Tech Pvt Ltd - Software Development Company",
+        "address": "Ground Floor, Baskar Complex, 5 A, Besant Rd, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+        "phone": "093848 04402",
+        "rating": "",
+        "reviews": "25 reviews",
+        "website": "https://www.alpharive.com/",
+        "category": "Software company",
+        "emails": [
+          "sales@alpharive.com",
+          "hr@alpharive.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969054404-6",
+        "name": "Cloudfloor cowork spaces & Business Technology Incubator",
+        "address": "Madurai, Tamil Nadu 625002",
+        "phone": "080987 40990",
+        "rating": "",
+        "reviews": "48 reviews",
+        "website": "https://625001.in/",
+        "category": "Coworking space",
+        "emails": [
+          "maduraistartups@625001.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969063885-7",
+        "name": "Tecneural Software Solutions | AI Agentic Workforce, Agentic DevOps, BTC Mining, Blockchain & CRM Solutions | Madurai",
+        "address": "R, Parthasarathy St, Somasundaram colony, S S Colony, Madurai, Tamil Nadu 625016",
+        "phone": "096555 17034",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "https://www.tecneural.com/",
+        "category": "Software company",
+        "emails": [
+          "support@tecneural.com",
+          "info@tecneural.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969068062-8",
+        "name": "Novastrid IT Ventures Pvt Ltd",
+        "address": "127A/1, Indigo Arcade Second Floor Desiyavinayagar Kovil Street,Zone-2, K.Pudur Landmark: SBI Bank Upstairs, Tamil Nadu 625007",
+        "phone": "",
+        "rating": "",
+        "reviews": "53 reviews",
+        "website": "https://www.novastrid.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969072903-9",
+        "name": "ShareSoft Technology",
+        "address": "18, APK Main Rd, near CMS Agro Foods, Avaniyapuram, Madurai, Tamil Nadu 625012",
+        "phone": "094881 32880",
+        "rating": "",
+        "reviews": "32 reviews",
+        "website": "https://www.sharesoft.in/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969089978-10",
+        "name": "Uplogic Technologies - Digital Platform & Solutions Development Company",
+        "address": "3rd Floor, Rakesh Towers, 30 C, Bypass Rd, Madurai, Tamil Nadu 625016",
+        "phone": "070107 62781",
+        "rating": "",
+        "reviews": "69 reviews",
+        "website": "http://www.uplogictech.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969108650-11",
+        "name": "Pentaxial Technologies",
+        "address": "157, Thiagarajar Colony Road, Pasumalai, Madurai, Tamil Nadu 625004",
+        "phone": "075983 39685",
+        "rating": "",
+        "reviews": "11 reviews",
+        "website": "https://www.pentaxialtechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "info@pentaxialtechnologies.com",
+          "sales@pentaxialtechnologies.com",
+          "support@pentaxialtechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969112941-12",
+        "name": "Elysium Technologies Private Limited",
+        "address": "Ground Floor, A Block, Elysium Campus, 229, Church Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "099447 93398",
+        "rating": "",
+        "reviews": "333 reviews",
+        "website": "https://elysiumtechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "info@elysiumtechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969117007-13",
+        "name": "Boostimize Technologies Pvt Ltd",
+        "address": "Plot No.8, 2nd Cross St, Kumaran Nagar, Tangamanal Nagar, S Alangulam, Madurai, Tamil Nadu 625017",
+        "phone": "080726 27482",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "https://www.boostimize.ai/",
+        "category": "Software company",
+        "emails": [
+          "ceo@boostinise.ai",
+          "ceo@boostimize.ai",
+          "support@boostimize.ai"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969124677-14",
+        "name": "Bhive Technologies",
+        "address": "62, 2nd Floor, Yeri Karai Thottam Street, Deputy Collector Colony, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "094980 51336",
+        "rating": "",
+        "reviews": "80 reviews",
+        "website": "https://bhivetechnologies.in/",
+        "category": "Website designer",
+        "emails": [
+          "info@bhivetechnologies.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969130508-15",
+        "name": "V S Innovations",
+        "address": "No 9, Ramraj Plaza , First floor, Mahatma Gandhi Nagar Main road Landmark, above HDFC ATM, Madurai, Tamil Nadu 625014",
+        "phone": "097861 40614",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "http://www.vsindigital.com/",
+        "category": "Software company",
+        "emails": [
+          "senthil@vsindigital.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969134579-16",
+        "name": "Foundif Innovations | Web, SaaS, CRM & App Development Company in Madurai",
+        "address": "",
+        "phone": "093632 00237",
+        "rating": "",
+        "reviews": "31 reviews",
+        "website": "https://foundif.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969139555-17",
+        "name": "Abservetech Private Limited",
+        "address": "146-147, Vakkil New St, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+        "phone": "092223 79222",
+        "rating": "",
+        "reviews": "752 reviews",
+        "website": "https://www.abservetech.com/",
+        "category": "Software company",
+        "emails": [
+          "support@abservetech.com",
+          "hr@abservetech.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969143188-18",
+        "name": "IRG INFOTEC",
+        "address": "3rd Floor, SKV Complex, 94/15, Bypass Rd, Jn, Ellis Nagar, Madurai, Tamil Nadu 625016",
+        "phone": "",
+        "rating": "",
+        "reviews": "35 reviews",
+        "website": "https://www.irginfotec.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969148854-19",
+        "name": "iSQUARE Business Solution Pvt. Ltd.",
+        "address": "1st Floor, No. 10, Navalar Nagar 3rd St, Sakthi Velammal Nagar, S S Colony, Madurai, Tamil Nadu 625016",
+        "phone": "0452 405 0825",
+        "rating": "",
+        "reviews": "67 reviews",
+        "website": "https://www.isquarebs.com/?utm_source=googlebusinesslisting&utm_medium=organic_search&utm_campaign=google_business_listing",
+        "category": "Automation company",
+        "emails": [
+          "reach@isquarebs.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969152821-20",
+        "name": "ARM InfoTech - AI & Blockchain Development Company",
+        "address": "First floor, Ram Nagar 5th Street, 239, Bypass Rd, near Aparna Towers, opposite Meenakshi Labs, Madurai, Tamil Nadu 625010",
+        "phone": "0452 435 3603",
+        "rating": "",
+        "reviews": "69 reviews",
+        "website": "https://www.arminfotech.com/",
+        "category": "Software company",
+        "emails": [
+          "mail@company.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969157794-21",
+        "name": "Vivekasoftek",
+        "address": "68A, Kakkan St, Kuruvikaran Salai, Anna Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "090947 79287",
+        "rating": "",
+        "reviews": "56 reviews",
+        "website": "https://vivekasoftek.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969162140-22",
+        "name": "Trioangle Technologies",
+        "address": "No 12/9, Santhosh Raj Plaza,3rd Floor, Subburaman Street, Gandhi Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "0452 253 5025",
+        "rating": "",
+        "reviews": "189 reviews",
+        "website": "https://www.trioangle.com/",
+        "category": "Software company",
+        "emails": [
+          "johndoe@gmail.com",
+          "sales@trioangle.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969169772-23",
+        "name": "CLARISCO - Blockchain, AI & IoT Software Development Company",
+        "address": "Plot No. 29, 30, Iswarya Nagar, Madakkulam, Madurai, Tamil Nadu 625003",
+        "phone": "094424 30551",
+        "rating": "",
+        "reviews": "39 reviews",
+        "website": "https://www.clarisco.com/",
+        "category": "Software company",
+        "emails": [
+          "business@clarisco.com",
+          "priyadharshini@clarisco.com",
+          "info@clarisco.com",
+          "alicehodge@clarisco.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969174542-24",
+        "name": "Maxelerator Foundation - A Deep Tech Startup Technology Ideation Incubator Madurai, Tamil Nadu",
+        "address": "206 Vellaikannu Nagar, Theni Main Rd, opp. Royal Enfield, Madurai, Tamil Nadu 625016",
+        "phone": "070108 22526",
+        "rating": "",
+        "reviews": "22 reviews",
+        "website": "http://www.maxelerator.org/",
+        "category": "Community center",
+        "emails": [
+          "admin@maxelerator.org"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969179977-25",
+        "name": "Jofinity Soft Solution",
+        "address": "Aparna Towers, Ramnagar 6th street, Bypass Rd, Madurai, Tamil Nadu 625016",
+        "phone": "086674 83838",
+        "rating": "",
+        "reviews": "13 reviews",
+        "website": "https://jofinity.com/",
+        "category": "Software company",
+        "emails": [
+          "info@jofinity.com",
+          "business@jofinity.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969184059-26",
+        "name": "SpotnRides - Taxi App Development Company",
+        "address": "3rd Floor, Rakesh Towers, SpotnRides 30 C, Bypass Rd, Madurai, Tamil Nadu 625016",
+        "phone": "0452 429 5595",
+        "rating": "",
+        "reviews": "30 reviews",
+        "website": "https://www.spotnrides.com/",
+        "category": "Software company",
+        "emails": [
+          "hello@spotnrides.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969188944-27",
+        "name": "Thanvi Technologies | Mobile App Development | Web Designing | Digital marketing Company",
+        "address": "86, DSP Nagar Main Road, Dinamalar Avenue, Bypass Rd, near dinamalar office, Madurai, Tamil Nadu 625016",
+        "phone": "084381 64916",
+        "rating": "",
+        "reviews": "42 reviews",
+        "website": "https://thanvitechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "info@thanvitechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969193445-28",
+        "name": "Dot Com Infoway",
+        "address": "I Floor, Vaigai Colony, Plot No. 3, 80 Feet Rd, opp. to Ambika Theatre, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "0452 252 2257",
+        "rating": "",
+        "reviews": "116 reviews",
+        "website": "https://www.dotcominfoway.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969212243-29",
+        "name": "Nativelead Foundation",
+        "address": "Hakim Ajmal Khan Rd, Ponmeni, Chinna Chokikulam, Madurai, Tamil Nadu 625016",
+        "phone": "063742 48154",
+        "rating": "",
+        "reviews": "1 review",
+        "website": "http://www.nativelead.org/",
+        "category": "Investment company",
+        "emails": [
+          "ajay_enquirydesk@nativelead.org",
+          "vedhaviswanathan@nativelead.org"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969217124-30",
+        "name": "NABARD - Madurai Agribusiness Incubation Forum",
+        "address": "Agricultural College and Research Institute, Madurai, Kodikulam, Tamil Nadu 625104",
+        "phone": "0452 242 4550",
+        "rating": "",
+        "reviews": "327 reviews",
+        "website": "http://www.mabif.com/",
+        "category": "Agricultural organization",
+        "emails": [
+          "info@mabif.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969223215-31",
+        "name": "Cogzidel Technologies",
+        "address": "184, N Veli St, Madurai Main, Madurai, Tamil Nadu 625001",
+        "phone": "0452 234 4002",
+        "rating": "",
+        "reviews": "132 reviews",
+        "website": "",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969226711-32",
+        "name": "Brilliant Systems Solutions Pvt Ltd",
+        "address": "BNS Residency, Jeevan nagar, Ponmeni, Madurai, Tamil Nadu 625003",
+        "phone": "0452 351 7248",
+        "rating": "",
+        "reviews": "16 reviews",
+        "website": "https://bsyssolutions.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969232673-33",
+        "name": "Osiz Technologies Pvt Ltd",
+        "address": "22, opp. Seethalakshmi Mills gate stop, Astalakshmi Nagar, Lion City, Thanakkankulam, Tamil Nadu 625006",
+        "phone": "094421 64852",
+        "rating": "",
+        "reviews": "316 reviews",
+        "website": "https://www.osiztechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "salesteam@osiztechnologies.com",
+          "hr@osiztechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969238190-34",
+        "name": "WARPE - A Complete HR Solutions | HR / IT Training | Digital Marketing Training | Placement Services",
+        "address": "WARPE, 20A, Nehru St, Sathyamoorthy Nagar, State Bank Supervisors Colony, Madurai, Tamil Nadu 625016",
+        "phone": "080989 22111",
+        "rating": "",
+        "reviews": "320 reviews",
+        "website": "https://warpe.in/",
+        "category": "Human resource consulting",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969246023-35",
+        "name": "Technology Business Incubator (TCE-TBI)",
+        "address": "TBI), Thiagarajar College of Engineering, Thiagarajar Advance Research Centre, Thiagarajar College of Engineering Technology Business Incubator, TCE Road, Madurai, Tamil Nadu 625015",
+        "phone": "",
+        "rating": "",
+        "reviews": "38 reviews",
+        "website": "",
+        "category": "Technology park",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969249589-36",
+        "name": "Waioz Consultancy Services",
+        "address": "14/1, 3rd Cross Street, P&T Nagar, Madurai, Tamil Nadu 625017",
+        "phone": "073395 86637",
+        "rating": "",
+        "reviews": "15 reviews",
+        "website": "https://waioz.com/",
+        "category": "Software company",
+        "emails": [
+          "john@company.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969254553-37",
+        "name": "EiBS",
+        "address": "227, First Floor, B-Block, Elysium Campus, Church Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "098944 44710",
+        "rating": "",
+        "reviews": "70 reviews",
+        "website": "https://eibsglobal.com/",
+        "category": "Software company",
+        "emails": [
+          "info@eibsglobal.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969259020-38",
+        "name": "ELCOT IT Park, Madurai",
+        "address": "Airport-Mattuthavani Ring Rd, Madurai, Tamil Nadu 625020",
+        "phone": "",
+        "rating": "",
+        "reviews": "1,084 reviews",
+        "website": "",
+        "category": "Technology park",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969262453-39",
+        "name": "YellowBag (M/s. Makers Cart)",
+        "address": "3B, Middle St, Mathichiyam, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "",
+        "rating": "",
+        "reviews": "141 reviews",
+        "website": "http://theyellowbag.org/",
+        "category": "Non-governmental organization",
+        "emails": [
+          "vanakkam@theyellowbag.org"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969271846-40",
+        "name": "aeXpro Technology and Consulting LLP",
+        "address": "98, LIG Colony Rd, Vaigai Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "096290 81421",
+        "rating": "",
+        "reviews": "15 reviews",
+        "website": "https://www.aexpro.in/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969276104-41",
+        "name": "Software Development And Graphic Design",
+        "address": "64, 11, 1st St, Subramaniapuram, Madurai, Tamil Nadu 625011",
+        "phone": "098943 24458",
+        "rating": "",
+        "reviews": "890 reviews",
+        "website": "https://softwaredevelopmentandgraphicdesign.tech/",
+        "category": "Website designer",
+        "emails": [
+          "info@softwaredevelopmentandgraphicdesign.tech"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969280087-42",
+        "name": "Savemom Private Limited",
+        "address": "Ground floor, TARC Building, TCE TBI Rd, Thiruparankundram, Madurai, Tamil Nadu 625015",
+        "phone": "093615 13147",
+        "rating": "",
+        "reviews": "11 reviews",
+        "website": "https://savemom.in/",
+        "category": "Medical technology manufacturer",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969284852-43",
+        "name": "Buiz lab",
+        "address": "5, Aishwarya Lakshmi Plaza, Sundaram Park, 9th East Street, 80 Feet Rd, near SPK Hotel, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "094449 48494",
+        "rating": "",
+        "reviews": "35 reviews",
+        "website": "https://www.buizlab.com/",
+        "category": "Branding agency",
+        "emails": [
+          "creative@buizlab.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969288948-44",
+        "name": "Kalanjiyam Technical Solutions",
+        "address": "2nd Floor, 237, LIG Colony, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "",
+        "rating": "",
+        "reviews": "7 reviews",
+        "website": "https://kalanjiyam.info/",
+        "category": "Software company",
+        "emails": [
+          "contactus@kalanjiyam.info"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969293205-45",
+        "name": "Unknown",
+        "address": "",
+        "phone": "",
+        "rating": "",
+        "reviews": "",
+        "website": "",
+        "category": "",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969296622-46",
+        "name": "Apptivo Software",
+        "address": "36/2, Doak Nagar Main Rd, Madurai, Tamil Nadu 625016",
+        "phone": "0452 238 3730",
+        "rating": "",
+        "reviews": "123 reviews",
+        "website": "http://www.apptivo.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969307658-47",
+        "name": "Quantanics TechServ Pvt Ltd.",
+        "address": "207/49A, 207/49A, Theni Rd, Chavadi, VOC Nagar, North Street, Madurai, Tamil Nadu 625016",
+        "phone": "070108 97188",
+        "rating": "",
+        "reviews": "43 reviews",
+        "website": "http://www.quantanics.in/",
+        "category": "Automation company",
+        "emails": [
+          "support@quantanics.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969311883-48",
+        "name": "ZealLuxe Technologies",
+        "address": "PL No 13 95/2A1A, IOC Nagar, Vilangudi, Madurai, Tamil Nadu 625018",
+        "phone": "093636 69682",
+        "rating": "",
+        "reviews": "2 reviews",
+        "website": "http://zealluxe.in/",
+        "category": "Software company",
+        "emails": [
+          "support@zealluxe.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969315788-49",
+        "name": "OptiSol Business Solutions Pvt Ltd - Madurai",
+        "address": "OptiSol Business Solutions Pvt Ltd, Kamala 2nd St, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+        "phone": "0452 439 2350",
+        "rating": "",
+        "reviews": "46 reviews",
+        "website": "http://www.optisolbusiness.com/",
+        "category": "Software company",
+        "emails": [
+          "info@optisolbusiness.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969320153-50",
+        "name": "Alphagnito Technologies Private Limited",
+        "address": "5/517, Thiruvalluvar St, Mandure, Vandiyur, Madurai, Tamil Nadu 625020",
+        "phone": "063697 36093",
+        "rating": "",
+        "reviews": "10 reviews",
+        "website": "https://alphagnito.com/",
+        "category": "Software company",
+        "emails": [
+          "contact@alphagnito.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969324701-51",
+        "name": "NexCodez Technologies",
+        "address": "Vakkil New St, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+        "phone": "096291 17632",
+        "rating": "",
+        "reviews": "1 review",
+        "website": "https://nexcodez.com/",
+        "category": "Information services",
+        "emails": [
+          "sales@nexcodez.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969329383-52",
+        "name": "KavinSoftTech",
+        "address": "3, Vaigai Veethi, Anagalaeswari Nagar, Kochadai, Madurai, Tamil Nadu 625016",
+        "phone": "098426 35906",
+        "rating": "",
+        "reviews": "7 reviews",
+        "website": "https://kavinsofttech.com/",
+        "category": "Software company",
+        "emails": [
+          "ganesan.yes@gmail.com",
+          "kavinsoft.tech@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969334135-53",
+        "name": "Solamalai Foundation for Startup Incubation(SFSI)",
+        "address": "Solamalai Knowledge Park, S.V, Raja Nagar, Veerapanjan, Tamil Nadu 625020",
+        "phone": "098429 35222",
+        "rating": "",
+        "reviews": "6 reviews",
+        "website": "",
+        "category": "College",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969337418-54",
+        "name": "Pixel Web Solutions",
+        "address": "No-4, Ram Towers, Melakkal Rd, near Seventh Day school, Kochadai, Madurai, Tamil Nadu 625016",
+        "phone": "080982 22330",
+        "rating": "",
+        "reviews": "78 reviews",
+        "website": "https://www.pixelwebsolutions.com/",
+        "category": "Software company",
+        "emails": [
+          "example@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969342323-55",
+        "name": "Vellon Space Private Limited",
+        "address": "107/2, MGR 3rd St, keelavaithiyanathapuram, Thathaneri, Madurai, Tamil Nadu 625018",
+        "phone": "",
+        "rating": "",
+        "reviews": "1 review",
+        "website": "",
+        "category": "Corporate office",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969346118-56",
+        "name": "Century Minds | Website Designers in Madurai | Web Design Company in Madurai | Website Development Company in Madurai | SEO",
+        "address": "Bypass Road 32/44, 1st Floor Pillayar kovil 2nd Street, SS.colony, Byepass Road, Madurai, Tamil Nadu 625016",
+        "phone": "072007 51000",
+        "rating": "",
+        "reviews": "190 reviews",
+        "website": "https://centuryminds.com/",
+        "category": "Website designer",
+        "emails": [
+          "email@centuryminds.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969350437-57",
+        "name": "MarqWon Dynamics Pvt Ltd",
+        "address": "Lavanya Complex, 9, Iyer Bungalow Moondrumavadi Main Rd, GR Nagar, Madurai, Tamil Nadu 625007",
+        "phone": "094867 27259",
+        "rating": "",
+        "reviews": "3 reviews",
+        "website": "https://marqwon.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969354873-58",
+        "name": "Mithr Artificial Intelligence Pvt Ltd",
+        "address": "471, TM Nagar West 1st Cross St, Mellur, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "",
+        "rating": "",
+        "reviews": "2 reviews",
+        "website": "http://www.mithrai.com/",
+        "category": "Corporate office",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969430302-59",
+        "name": "GUDLYF MOBILITY PRIVATE LIMITED",
+        "address": "GOLDEN AVENUE, 4 / 427, P & T Nagar Extn, Iyer Bungalow, Madurai, Tamil Nadu 625017",
+        "phone": "",
+        "rating": "",
+        "reviews": "3 reviews",
+        "website": "",
+        "category": "Association / Organization",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969433759-60",
+        "name": "Techmango",
+        "address": "Sambakulam, Kodikulam, Madurai, Tamil Nadu 625007",
+        "phone": "099940 23236",
+        "rating": "",
+        "reviews": "43 reviews",
+        "website": "https://www.techmango.net/",
+        "category": "Software company",
+        "emails": [
+          "business@techmango.net"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969439162-61",
+        "name": "Static Savvy Media",
+        "address": "2nd Floor, 4/3, Srinivasa Perumal Koil St, Meenakshipuram, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+        "phone": "099440 40345",
+        "rating": "",
+        "reviews": "103 reviews",
+        "website": "https://www.staticsavvymedia.com/?utm_source=gbp&utm_campaign=localo&utm_medium=mainlink",
+        "category": "Internet marketing service",
+        "emails": [
+          "info@staticsavvymedia.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969443769-62",
+        "name": "Findwaydigital | Web Design company in Madurai | Website Design Company in Madurai | Best SEO Services Company in Madurai",
+        "address": "1st floor, Bank of Baroda upstairs, 5, Sakthi Velammal St, Sakthi Velammal Nagar, S S Colony, Madurai, Tamil Nadu 625010",
+        "phone": "098845 65567",
+        "rating": "",
+        "reviews": "261 reviews",
+        "website": "http://findwaydigital.com/",
+        "category": "Website designer",
+        "emails": [
+          "info@findwaydigital.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969449621-63",
+        "name": "Troniex Technologies Pvt Ltd | The Ultimate Destination for AI & Blockchain Development Services",
+        "address": "10 - A, GST Road, Pasumalai, Madurai, Tamil Nadu 625004",
+        "phone": "084384 57904",
+        "rating": "",
+        "reviews": "13 reviews",
+        "website": "https://www.troniextechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "sales@troniextechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969453785-64",
+        "name": "TPA Cowork",
+        "address": "No:155, 1st floor, 80 Feet Rd, LIG Colony, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "093601 32690",
+        "rating": "",
+        "reviews": "9 reviews",
+        "website": "",
+        "category": "Coworking space",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969457236-65",
+        "name": "KRTS Info Tech Madurai",
+        "address": "Kaveri Nagar, Madurai, Villapuram, Tamil Nadu 625012",
+        "phone": "098947 31914",
+        "rating": "",
+        "reviews": "",
+        "website": "https://krts.tech/",
+        "category": "Software company",
+        "emails": [
+          "krtsinfotech@gmail.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969461899-66",
+        "name": "Cup Time - Delivering Coffee & Tea in Madurai",
+        "address": "No 35, Alagaradi 1st Street Next to Madurai Muthu Middle School, Arappalayam, Madurai, Tamil Nadu 625016",
+        "phone": "091691 61110",
+        "rating": "",
+        "reviews": "360 reviews",
+        "website": "http://www.cuptime.in/",
+        "category": "Delivery service",
+        "emails": [
+          "franchise@cuptime.in",
+          "reach@cuptime.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969465838-67",
+        "name": "Codehub",
+        "address": "6th floor, 4, Bypass Rd, Ponmeni, Madurai, Tamil Nadu 625016",
+        "phone": "090420 66515",
+        "rating": "",
+        "reviews": "",
+        "website": "http://www.codehub.co.in/",
+        "category": "Corporate office",
+        "emails": [
+          "info@codehub.co.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969470534-68",
+        "name": "aedentek madurai best E-commerce developer",
+        "address": "1-2, Thomas Street, Narimedu, Madurai, Tamil Nadu 625002",
+        "phone": "080562 05305",
+        "rating": "",
+        "reviews": "",
+        "website": "http://aedentek.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969483177-69",
+        "name": "Jongwings",
+        "address": "Mayandi thevir street, 29/7B, Melakkal Rd, Kochadai, Achampattu, Madurai, Tamil Nadu 625016",
+        "phone": "098431 47998",
+        "rating": "",
+        "reviews": "1 review",
+        "website": "http://www.jongwings.com/",
+        "category": "Software company",
+        "emails": [
+          "info@jongwings.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783969487287-70",
+        "name": "SpotnEats",
+        "address": "3rd Floor, SpotnEats 30 C, Bypass Rd, Madurai, Tamil Nadu 625016",
+        "phone": "0452 429 5595",
+        "rating": "",
+        "reviews": "3 reviews",
+        "website": "https://www.spotneats.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13T18:51:27.336Z",
+    "query": "startups in maduria",
+    "date": "2026-07-13T18:51:27.336Z",
+    "totalResults": 20,
+    "data": [
+      {
+        "id": "1783968550010-0",
+        "name": "MaduraiStartupSpaces",
+        "address": "Ground Floor, N M R, 3-A, Subburaman Road, Periya, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+        "phone": "070103 28830",
+        "rating": "",
+        "reviews": "18 reviews",
+        "website": "https://maduraistartups.in/",
+        "category": "Coworking space",
+        "emails": [
+          "reach@maduraistartups.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968559218-1",
+        "name": "RadicalStart InfoLab Private Limited",
+        "address": "6th floor, MIG-341, 80 Feet Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "078670 07700",
+        "rating": "",
+        "reviews": "168 reviews",
+        "website": "https://www.radicalstart.com/",
+        "category": "Software company",
+        "emails": [
+          "support@radicalstart.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968563411-2",
+        "name": "StartupTN Madurai Regional Hub",
+        "address": "W4PQ+CH3 Regional Startup Hub, Mellur, Madurai, Tamil Nadu 625002",
+        "phone": "",
+        "rating": "",
+        "reviews": "28 reviews",
+        "website": "https://startuptn.in/",
+        "category": "Government office",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968573101-3",
+        "name": "Madurai Startups Maker Spaces",
+        "address": "3780,Floor, I, TNHB Colony, Madurai, Tamil Nadu 625011",
+        "phone": "",
+        "rating": "",
+        "reviews": "35 reviews",
+        "website": "https://625001.in/",
+        "category": "Coworking space",
+        "emails": [
+          "maduraistartups@625001.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968580641-4",
+        "name": "FasturaTechnologies",
+        "address": "311, 1st East Main Rd, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+        "phone": "090367 82332",
+        "rating": "",
+        "reviews": "4 reviews",
+        "website": "http://fastura.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968585532-5",
+        "name": "Alpharive Tech Pvt Ltd - Software Development Company",
+        "address": "Ground Floor, Baskar Complex, 5 A, Besant Rd, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+        "phone": "093848 04402",
+        "rating": "",
+        "reviews": "25 reviews",
+        "website": "https://www.alpharive.com/",
+        "category": "Software company",
+        "emails": [
+          "sales@alpharive.com",
+          "hr@alpharive.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968590138-6",
+        "name": "Cloudfloor cowork spaces & Business Technology Incubator",
+        "address": "Madurai, Tamil Nadu 625002",
+        "phone": "080987 40990",
+        "rating": "",
+        "reviews": "48 reviews",
+        "website": "https://625001.in/",
+        "category": "Coworking space",
+        "emails": [
+          "maduraistartups@625001.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968599768-7",
+        "name": "Tecneural Software Solutions | AI Agentic Workforce, Agentic DevOps, BTC Mining, Blockchain & CRM Solutions | Madurai",
+        "address": "R, Parthasarathy St, Somasundaram colony, S S Colony, Madurai, Tamil Nadu 625016",
+        "phone": "096555 17034",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "https://www.tecneural.com/",
+        "category": "Software company",
+        "emails": [
+          "support@tecneural.com",
+          "info@tecneural.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968603612-8",
+        "name": "Novastrid IT Ventures Pvt Ltd",
+        "address": "127A/1, Indigo Arcade Second Floor Desiyavinayagar Kovil Street,Zone-2, K.Pudur Landmark: SBI Bank Upstairs, Tamil Nadu 625007",
+        "phone": "",
+        "rating": "",
+        "reviews": "53 reviews",
+        "website": "https://www.novastrid.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968608688-9",
+        "name": "ShareSoft Technology",
+        "address": "18, APK Main Rd, near CMS Agro Foods, Avaniyapuram, Madurai, Tamil Nadu 625012",
+        "phone": "094881 32880",
+        "rating": "",
+        "reviews": "32 reviews",
+        "website": "https://www.sharesoft.in/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968625310-10",
+        "name": "Uplogic Technologies - Digital Platform & Solutions Development Company",
+        "address": "3rd Floor, Rakesh Towers, 30 C, Bypass Rd, Madurai, Tamil Nadu 625016",
+        "phone": "070107 62781",
+        "rating": "",
+        "reviews": "69 reviews",
+        "website": "http://www.uplogictech.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968643266-11",
+        "name": "Pentaxial Technologies",
+        "address": "157, Thiagarajar Colony Road, Pasumalai, Madurai, Tamil Nadu 625004",
+        "phone": "075983 39685",
+        "rating": "",
+        "reviews": "11 reviews",
+        "website": "https://www.pentaxialtechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "info@pentaxialtechnologies.com",
+          "sales@pentaxialtechnologies.com",
+          "support@pentaxialtechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968647099-12",
+        "name": "Elysium Technologies Private Limited",
+        "address": "Ground Floor, A Block, Elysium Campus, 229, Church Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "099447 93398",
+        "rating": "",
+        "reviews": "333 reviews",
+        "website": "https://elysiumtechnologies.com/",
+        "category": "Software company",
+        "emails": [
+          "info@elysiumtechnologies.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968651931-13",
+        "name": "Bhive Technologies",
+        "address": "62, 2nd Floor, Yeri Karai Thottam Street, Deputy Collector Colony, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+        "phone": "094980 51336",
+        "rating": "",
+        "reviews": "80 reviews",
+        "website": "https://bhivetechnologies.in/",
+        "category": "Website designer",
+        "emails": [
+          "info@bhivetechnologies.in"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968658083-14",
+        "name": "Boostimize Technologies Pvt Ltd",
+        "address": "Plot No.8, 2nd Cross St, Kumaran Nagar, Tangamanal Nagar, S Alangulam, Madurai, Tamil Nadu 625017",
+        "phone": "080726 27482",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "https://www.boostimize.ai/",
+        "category": "Software company",
+        "emails": [
+          "ceo@boostinise.ai",
+          "ceo@boostimize.ai",
+          "support@boostimize.ai"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968665722-15",
+        "name": "V S Innovations",
+        "address": "No 9, Ramraj Plaza , First floor, Mahatma Gandhi Nagar Main road Landmark, above HDFC ATM, Madurai, Tamil Nadu 625014",
+        "phone": "097861 40614",
+        "rating": "",
+        "reviews": "21 reviews",
+        "website": "http://www.vsindigital.com/",
+        "category": "Software company",
+        "emails": [
+          "senthil@vsindigital.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968669752-16",
+        "name": "Foundif Innovations | Web, SaaS, CRM & App Development Company in Madurai",
+        "address": "",
+        "phone": "093632 00237",
+        "rating": "",
+        "reviews": "31 reviews",
+        "website": "https://foundif.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968675130-17",
+        "name": "Abservetech Private Limited",
+        "address": "146-147, Vakkil New St, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+        "phone": "092223 79222",
+        "rating": "",
+        "reviews": "752 reviews",
+        "website": "https://www.abservetech.com/",
+        "category": "Software company",
+        "emails": [
+          "support@abservetech.com",
+          "hr@abservetech.com"
+        ],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968679063-18",
+        "name": "IRG INFOTEC",
+        "address": "3rd Floor, SKV Complex, 94/15, Bypass Rd, Jn, Ellis Nagar, Madurai, Tamil Nadu 625016",
+        "phone": "",
+        "rating": "",
+        "reviews": "35 reviews",
+        "website": "https://www.irginfotec.com/",
+        "category": "Software company",
+        "emails": [],
+        "status": "scraped"
+      },
+      {
+        "id": "1783968684675-19",
+        "name": "iSQUARE Business Solution Pvt. Ltd.",
+        "address": "1st Floor, No. 10, Navalar Nagar 3rd St, Sakthi Velammal Nagar, S S Colony, Madurai, Tamil Nadu 625016",
+        "phone": "0452 405 0825",
+        "rating": "",
+        "reviews": "67 reviews",
+        "website": "https://www.isquarebs.com/?utm_source=googlebusinesslisting&utm_medium=organic_search&utm_campaign=google_business_listing",
+        "category": "Automation company",
+        "emails": [
+          "reach@isquarebs.com"
+        ],
+        "status": "scraped"
+      }
+    ]
+  },
+  {
     "id": "2026-07-13T17:09:24.133Z",
     "query": "colleges in Coimbatore",
     "date": "2026-07-13T17:09:24.133Z",
@@ -1085,13 +2332,6 @@
         "status": "scraped"
       }
     ]
-  },
-  {
-    "id": "2026-07-13T16:57:50.207Z",
-    "query": "colleges in Coimbatore",
-    "date": "2026-07-13T16:57:50.207Z",
-    "totalResults": 0,
-    "data": []
   },
   {
     "id": "2026-07-13T16:39:25.068Z",
